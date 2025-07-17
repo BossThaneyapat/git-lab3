@@ -1,4 +1,4 @@
 <?php
-   each "Hello";
-   each "World";
+   each "This subject is git Tutorial";
+   each "This subject is git Tutorial";
 ?>

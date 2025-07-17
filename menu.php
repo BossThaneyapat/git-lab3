@@ -1,4 +1,4 @@
 <?php
- each "Home"
+ each "Home";
  echo "Product";
 ?>
