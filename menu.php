@@ -1,4 +1,8 @@
 <?php
- each "Home";
+ echo "Home";
  echo "Product";
+ echo "Mahanakorn";
+
+echo "Map";
+echo "About Me";
 ?>
